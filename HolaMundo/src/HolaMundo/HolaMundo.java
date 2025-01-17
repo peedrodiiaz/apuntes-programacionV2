@@ -21,12 +21,7 @@ public class HolaMundo {
 		}
 
 
-		System.out.println("\n\n\n");
-		int[] arr = new int[] {123, 456, 789};
-
-		for(int a: arr) {
-			System.out.println(a);
-		}
+		System.out.println("Viva el betis")
 
 
 	}
