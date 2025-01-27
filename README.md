@@ -1,5 +1,3 @@
 # apuntes-programacion
 
-asdfasgads
-asfadsfd
-asdfasdfadsf
+Primera versión de los apuntes completada
